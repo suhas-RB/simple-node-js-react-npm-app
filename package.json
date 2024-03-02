@@ -4,6 +4,7 @@
   "private": true,
   "publishConfig": {
     "registry": "http://3.237.185.223:8081/repository/npm-repo/"
+  }
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
